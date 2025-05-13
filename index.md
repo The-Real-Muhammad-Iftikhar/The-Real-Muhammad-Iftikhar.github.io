@@ -5,13 +5,13 @@ title: Final Chronicle
 
 ## About Me
 
-Hi, I'm [Your First Name], a student interested in [short blurb—e.g., game design, storytelling, building things, etc.].  
-This project was part of my final quest in [course name], and it reflects what I’ve learned about [theme—e.g., creativity, code, perseverance].
+Hi, I'm Muhammad Iftikhar, a student interested in computer programming and solving problems.  
+This project was part of my final quest in Computer Programming(Spring 2025), and it reflects what I’ve learned about coding in general, and the knowledge I've accumulated this semester..
 
 ## About My Project
 
-**Project Title:** *[Name it!]*   
-**One-line pitch:** [“A game where you…” or “A project that lets you…”]
+**Project Title:** *Muhammad Iftikhar and 5 LeetCode Problems*   
+**One-line pitch:** Witness one of the greatest coding minds of our generation take on 5 LeetCode problems.
 
 > Curious about what I’d do differently or recommend to others? Read my final thoughts here: [Final Tip & Takeaways](_posts/2025-05-23-tip.md)
 
